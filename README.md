@@ -1,2 +1,2 @@
-# fluent_python
+# fluent-python
 Fluent Python 読んだときのメモ
